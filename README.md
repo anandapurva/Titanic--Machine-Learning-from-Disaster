@@ -1,2 +1,3 @@
-# Titanic--Machine-Learning-from-Disaster
-Predicting the survival rate on Titanic sinking using various python libraries and accuracy rate is calculated using various Machine learning Algorithms 
+This is a project named Titanic - Machine Learning from Disaster.
+
+I have done 1.5 months training on Data Science from Techonophilia where this task is to be done...
